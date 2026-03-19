@@ -72,6 +72,11 @@ List of cursors planned:
 
 \* = priority
 
+## Maintainer notes
+
+* Cursor files must be added to `install.inf` in the order present in the Mouse Properties dialog.
+* GIMP export must be done with `4 bpp, 1-bit alpha, 16-slot palette`.
+
 ## Acknowledgements
 
 * [Android Material Cursors (Blue)](https://www.deviantart.com/mj-lim/art/Android-Material-Cursors-Blue-606792782) by MJ-lim, used as reference for my own `install.inf`. Also a decent cursor pack in itself.

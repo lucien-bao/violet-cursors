@@ -11,14 +11,17 @@ Scheme.Txt = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
 ;; This list must be updated for every cursor added.
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%"
 
 [Scheme.Cur]
 left-ptr.cur
+help.cur
 
 [Scheme.Txt]
 
 [Strings]
 CUR_DIR     = "Violet-Cursors"
 SCHEME_NAME = "Violet Cursors"
+
 pointer     = "left-ptr.cur"
+help        = "help.cur"

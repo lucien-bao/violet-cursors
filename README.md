@@ -2,6 +2,8 @@
 
 A multiplatform cursor pack — because the world needs more purple in it.
 
+## Upcoming work
+
 Legend:
 
 * Axes
@@ -49,6 +51,12 @@ List of cursors planned:
   * Axes
   * Cardinals
   * One-sided diagonals
+
+## Acknowledgements
+
+* [Android Material Cursors (Blue)](https://www.deviantart.com/mj-lim/art/Android-Material-Cursors-Blue-606792782) by MJ-lim, used as reference for my own `install.inf`. Also a decent cursor pack in itself.
+
+## Copyright notice
 
 Copyright (C) 2026 Violet Renard.
 

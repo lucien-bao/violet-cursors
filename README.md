@@ -84,6 +84,7 @@ List of cursors planned:
   * Up pointer: 7, 0
   * Busy: 1, 1
   * Crosshair: 4, 4
+  * Text: 2, 5
 
 ## Acknowledgements
 

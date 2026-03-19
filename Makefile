@@ -1,6 +1,7 @@
 windows:
 	mkdir Violet-Cursors;
 	cp cursor/*.cur Violet-Cursors;
+	cp cursor/*.ani Violet-Cursors;
 	cp install.inf Violet-Cursors;
 	tar.exe -a -c -f windows.zip Violet-Cursors;
 	rm -rf Violet-Cursors;

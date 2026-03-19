@@ -14,11 +14,11 @@ Scheme.Txt = 10,"%CUR_DIR%"
 HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%
 
 [Scheme.Cur]
-left_ptr.cur
+left-ptr.cur
 
 [Scheme.Txt]
 
 [Strings]
 CUR_DIR     = "Violet-Cursors"
 SCHEME_NAME = "Violet Cursors"
-pointer     = "left_ptr.cur"
+pointer     = "left-ptr.cur"

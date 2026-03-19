@@ -17,33 +17,33 @@ Legend:
 List of cursors planned:
 
 * Pointers
-  * Arrow (default)
-  * Up arrow (alternate)
+  * Arrow (default)*
+  * Up arrow (alternate)*
   * Right arrow
-  * w/ spinner
-  * w/ quest
+  * w/ spinner*
+  * w/ quest*
   * w/ hamburger menu
   * w/ plus (copy)
-* Beams (text)
+* Beams (text) [vertical]*
   * Axes
 * Zoom (magnifying glass)
   * In (plus)
   * Out (minus)
-* Wait (busy)
-* Crosshair (precision)
+* Wait (busy)*
+* Crosshair (precision)*
 * Arrows
-  * Four-way (move)
+  * Four-way (move)*
   * Axes
-  * Cardinals
-  * Two-sided diagonals
-* No (unavailable)
-* Hand (link)
-  * w/ map pin
-  * w/ person
+  * Cardinals*
+  * Two-sided diagonals*
+* No (unavailable)*
+* Hand (link)*
+  * w/ map pin*
+  * w/ person*
 * Grab
   * Open
   * Closed
-* Pen
+* Pen*
 * Grid-resize
   * Axes
 * Scrolling
@@ -51,6 +51,8 @@ List of cursors planned:
   * Axes
   * Cardinals
   * One-sided diagonals
+
+\* = priority
 
 ## Acknowledgements
 

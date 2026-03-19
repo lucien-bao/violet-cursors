@@ -83,6 +83,7 @@ List of cursors planned:
   * Left pointers: 1, 1
   * Up pointer: 7, 0
   * Busy: 1, 1
+  * Crosshair: 4, 4
 
 ## Acknowledgements
 

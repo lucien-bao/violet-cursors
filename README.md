@@ -85,6 +85,7 @@ List of cursors planned:
   * Busy: 1, 1
   * Crosshair: 4, 4
   * Text: 2, 5
+  * Pen: 0, 0
 
 ## Acknowledgements
 

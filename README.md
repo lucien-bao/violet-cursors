@@ -2,6 +2,24 @@
 
 A multiplatform cursor pack — because the world needs more purple in it.
 
+## How to install
+
+(Installers are only available for Windows right now. Support for Linux and Mac are planned.)
+
+### Windows
+
+1. Click `Releases` on the right side of this page.
+2. Find the latest release. (It's probably at the top.)
+3. Under `Assets`, click `windows.zip` to download it.
+4. Find the ZIP file. (It's probably in your computer's `Downloads` folder.)
+5. Extract the contents of the ZIP file. (Open it, then click `Extract all`.)
+6. Open the contents. You should see an `install.inf` file.
+7. Right-click `install.inf` and click `Install`.
+8. Press the Windows key and search "cursor" in the Start Menu. You should see a result called "Change the mouse pointer display or speed" — press `Enter`.
+9. Click the `Pointers` tab at the top of the window that pops up.
+10. Under `Scheme`, open the dropdown and select `Violet Cursors`.
+11. Click `OK`.
+
 ## Upcoming work
 
 Legend:

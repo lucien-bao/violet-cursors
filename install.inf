@@ -11,12 +11,13 @@ Scheme.Txt = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
 ;; This list must be updated for every cursor added.
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%"
 
 [Scheme.Cur]
 left-ptr.cur
 help.cur
 working.ani
+busy.ani
 
 [Scheme.Txt]
 
@@ -27,3 +28,4 @@ SCHEME_NAME = "Violet Cursors"
 pointer     = "left-ptr.cur"
 help        = "help.cur"
 work        = "working.ani"
+busy        = "busy.ani"

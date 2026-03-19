@@ -1,0 +1,24 @@
+[Version]
+signature = "$Windows NT$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+Scheme.Txt = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+;; This list must be updated for every cursor added.
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%
+
+[Scheme.Cur]
+left_ptr.cur
+
+[Scheme.Txt]
+
+[Strings]
+CUR_DIR     = "Violet-Cursors"
+SCHEME_NAME = "Violet Cursors"
+pointer     = "left_ptr.cur"

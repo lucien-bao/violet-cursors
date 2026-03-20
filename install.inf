@@ -11,7 +11,7 @@ Scheme.Txt = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
 ;; This list must be updated for every cursor added.
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%,%10%\%CUR_DIR%\%no%,%10%\%CUR_DIR%\%vert%,%10%\%CUR_DIR%\%hori%,%10%\%CUR_DIR%\%nwse%,%10%\%CUR_DIR%\%nesw%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alt%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%,%10%\%CUR_DIR%\%no%,%10%\%CUR_DIR%\%vert%,%10%\%CUR_DIR%\%hori%,%10%\%CUR_DIR%\%nwse%,%10%\%CUR_DIR%\%nesw%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alt%,%10%\%CUR_DIR%\%link%"
 
 [Scheme.Cur]
 left-ptr.cur
@@ -28,6 +28,7 @@ nwse-resize.cur
 nesw-resize.cur
 move.cur
 up-ptr.cur
+link.ani
 
 [Scheme.Txt]
 
@@ -49,3 +50,4 @@ nwse        = "nwse-resize.cur"
 nesw        = "nesw-resize.cur"
 move        = "move.cur"
 alt         = "up-ptr.cur"
+link        = "link.ani"

@@ -88,6 +88,7 @@ List of cursors planned:
   * Pen: 0, 0
   * Cardinal resize: 3, 6
   * Diagonal resize: 4, 4
+  * Move: 6, 6
 
 ## Acknowledgements
 

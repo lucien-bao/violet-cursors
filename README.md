@@ -86,7 +86,8 @@ List of cursors planned:
   * Crosshair: 4, 4
   * Text: 2, 5
   * Pen: 0, 0
-  * Resize: 3, 6
+  * Cardinal resize: 3, 6
+  * Diagonal resize: 4, 4
 
 ## Acknowledgements
 

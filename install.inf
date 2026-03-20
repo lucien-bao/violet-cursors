@@ -11,7 +11,7 @@ Scheme.Txt = 10,"%CUR_DIR%"
 
 [Scheme.Reg]
 ;; This list must be updated for every cursor added.
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%,%10%\%CUR_DIR%\%no%"
 
 [Scheme.Cur]
 left-ptr.cur
@@ -21,6 +21,7 @@ busy.ani
 crosshair.cur
 text.cur
 pen.cur
+no.cur
 
 [Scheme.Txt]
 
@@ -35,3 +36,4 @@ busy        = "busy.ani"
 cross       = "crosshair.cur"
 text        = "text.cur"
 pen         = "pen.cur"
+no          = "no.cur"

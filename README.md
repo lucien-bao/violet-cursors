@@ -77,9 +77,11 @@ List of cursors planned:
 * Cursor files must be added to `install.inf` in the order present in the Mouse Properties dialog.
 * GIMP exports
   * Must be done with `4 bpp, 1-bit alpha, 16-slot palette`.
-  * For .ani files, frame delay of 16 jiffies.
-    * ... except for the link select pointers, which have delays of 6.
-  * Make sure to deoptimize .gif files before exporting to .ani.
+  * For .ani files
+    * Frame delay of 16 jiffies.
+    * ... 6 for link select pointers.
+    * Deoptimize .gif files.
+    * Might be helpful to export into .gif with reversed frames, since GIMP loads them backwards for some reason.
 * Hotspots (x, y)
   * Left pointers: 1, 1
   * Up pointer: 7, 0

@@ -78,8 +78,7 @@ List of cursors planned:
 * GIMP exports
   * Must be done with `4 bpp, 1-bit alpha, 16-slot palette`.
   * For .ani files
-    * Frame delay of 16 jiffies.
-    * ... 6 for link select pointers.
+    * Frame delay of 6 (except for busy).
     * Deoptimize .gif files.
     * Might be helpful to export into .gif with reversed frames, since GIMP loads them backwards for some reason.
 * Hotspots (x, y)

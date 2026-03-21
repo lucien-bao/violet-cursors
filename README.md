@@ -84,6 +84,7 @@ List of cursors planned:
 * Hotspots (x, y)
   * Left pointers: 1, 1
   * Up pointer: 7, 0
+  * Link pointers: 4, 0
   * Busy: 1, 1
   * Crosshair: 4, 4
   * Text: 2, 5

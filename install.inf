@@ -28,7 +28,7 @@ nwse-resize.cur
 nesw-resize.cur
 move.cur
 up-ptr.cur
-link.ani
+link.cur
 map.ani
 person.ani
 
@@ -52,6 +52,6 @@ nwse        = "nwse-resize.cur"
 nesw        = "nesw-resize.cur"
 move        = "move.cur"
 alt         = "up-ptr.cur"
-link        = "link.ani"
+link        = "link.cur"
 map         = "map.ani"
 person      = "person.ani"
